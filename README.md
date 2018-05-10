@@ -1,6 +1,7 @@
 # sikzinu_analize
-Anotētu sīkziņu korpuss un apstrādes skripti 
-Jēls sīkziņu korpuss failā viksna.json, tab-atdalīts korpuss failā viksna.tsv
+Anotētu sīkziņu korpuss un apstrādes skripti:
+ * Jēls sīkziņu korpuss failā viksna.json, 
+ * tab-atdalīts korpuss failā viksna.tsv
 
 Sīkziņu apstrādei izmantotie ārējie rīki: 
   - https://github.com/PeterisP/LVTagger - pamatformu iegūšanai
